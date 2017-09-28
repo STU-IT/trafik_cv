@@ -10,5 +10,5 @@ Kan man lave registreringen så den kan bruges til statistik over hvor meget tra
 
 Er det muligt registrere fartsyndernes nummerplader? Er det lovligt?
 
-Kik efter arbejdsplaner inder _Projekts_ og kik efter almindelige filosofiske overvejelser i _wiki_'en.
+Kik efter arbejdsplaner under [_Projekts_](https://github.com/STU-IT/trafik_cv/projects) og kik efter almindelige filosofiske overvejelser i [_wiki_'en](https://github.com/STU-IT/trafik_cv/wiki).
 
