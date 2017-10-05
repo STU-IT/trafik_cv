@@ -1,4 +1,3 @@
-#http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_video/py_meanshift/py_meanshift.html#meanshift
 import numpy as np
 import cv2
 
